@@ -1,0 +1,462 @@
+# depslib dependency file v1.0
+1533062952 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.c
+
+1533063050 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/LinkedList.h
+
+1533062926 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533062952 source:/home/mauro/Descargas/TP3/Linux_64/Employee.c
+
+1533066103 source:/home/mauro/Descargas/TP3/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/TP3/Linux_64/LinkedList.h
+
+1533066103 /home/mauro/Descargas/TP3/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533145792 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/LinkedList.h
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.h
+
+1533118898 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.c
+
+1533145890 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560128066 source:c:\users\sangl\desktop\trabajopractico3\tp3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560028781 c:\users\sangl\desktop\trabajopractico3\tp3\win_64\linkedlist.h
+
+1560126758 c:\users\sangl\desktop\trabajopractico3\tp3\win_64\employee.h
+
+1560028781 source:c:\users\sangl\desktop\trabajopractico3\tp3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560130334 source:c:\users\sangl\desktop\trabajopractico3\tp3\win_64\employee.c
+	"Employee.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"LinkedList.h"
+
+1560128760 source:c:\users\sangl\desktop\trabajopractico3\tp3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1560028781 c:\users\sangl\desktop\trabajopractico3\tp3\win_64\controller.h
+
+1560194931 source:c:\users\e5a8013\desktop\espacio de estudio\programacion i 2018\cursoc-master\cursoc-master\tps\trabajopractico3\tp3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560178894 c:\users\e5a8013\desktop\espacio de estudio\programacion i 2018\cursoc-master\cursoc-master\tps\trabajopractico3\tp3\win_64\linkedlist.h
+
+1560194737 c:\users\e5a8013\desktop\espacio de estudio\programacion i 2018\cursoc-master\cursoc-master\tps\trabajopractico3\tp3\win_64\employee.h
+	"LinkedList.h"
+
+1560195005 source:c:\users\e5a8013\desktop\espacio de estudio\programacion i 2018\cursoc-master\cursoc-master\tps\trabajopractico3\tp3\win_64\employee.c
+	"Employee.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"LinkedList.h"
+	"validaciones.h"
+
+1560178894 source:c:\users\e5a8013\desktop\espacio de estudio\programacion i 2018\cursoc-master\cursoc-master\tps\trabajopractico3\tp3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1560190002 c:\users\e5a8013\desktop\espacio de estudio\programacion i 2018\cursoc-master\cursoc-master\tps\trabajopractico3\tp3\win_64\controller.h
+
+1560178894 source:c:\users\e5a8013\desktop\espacio de estudio\programacion i 2018\cursoc-master\cursoc-master\tps\trabajopractico3\tp3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560187313 source:c:\users\e5a8013\desktop\espacio de estudio\programacion i 2018\cursoc-master\cursoc-master\tps\trabajopractico3\tp3\win_64\validaciones.c
+	"validaciones.h"
+
+1560186826 c:\users\e5a8013\desktop\espacio de estudio\programacion i 2018\cursoc-master\cursoc-master\tps\trabajopractico3\tp3\win_64\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1560214221 source:c:\users\alumno\desktop\c\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560204216 c:\users\alumno\desktop\c\linkedlist.h
+
+1560214261 c:\users\alumno\desktop\c\employee.h
+	"LinkedList.h"
+
+1560214265 source:c:\users\alumno\desktop\c\employee.c
+	"Employee.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"LinkedList.h"
+	"validaciones.h"
+
+1560204216 c:\users\alumno\desktop\c\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1560213974 source:c:\users\alumno\desktop\c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1560204216 c:\users\alumno\desktop\c\controller.h
+
+1560209094 source:c:\users\alumno\desktop\c\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560204216 source:c:\users\alumno\desktop\c\validaciones.c
+	"validaciones.h"
+
+1560282416 source:c:\users\e5a8013\desktop\espacio de estudio\programacion i 2018\trabajo-master\trabajo-master\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560276618 c:\users\e5a8013\desktop\espacio de estudio\programacion i 2018\trabajo-master\trabajo-master\linkedlist.h
+
+1560276618 c:\users\e5a8013\desktop\espacio de estudio\programacion i 2018\trabajo-master\trabajo-master\employee.h
+	"LinkedList.h"
+
+1560277282 source:c:\users\e5a8013\desktop\espacio de estudio\programacion i 2018\trabajo-master\trabajo-master\employee.c
+	"Employee.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"LinkedList.h"
+	"validaciones.h"
+
+1560276618 c:\users\e5a8013\desktop\espacio de estudio\programacion i 2018\trabajo-master\trabajo-master\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1560279178 source:c:\users\e5a8013\desktop\espacio de estudio\programacion i 2018\trabajo-master\trabajo-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1560276618 c:\users\e5a8013\desktop\espacio de estudio\programacion i 2018\trabajo-master\trabajo-master\controller.h
+
+1560276618 source:c:\users\e5a8013\desktop\espacio de estudio\programacion i 2018\trabajo-master\trabajo-master\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560276618 source:c:\users\e5a8013\desktop\espacio de estudio\programacion i 2018\trabajo-master\trabajo-master\validaciones.c
+	"validaciones.h"
+
+1560310915 source:c:\users\sangl\desktop\tptres2.0\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560290637 c:\users\sangl\desktop\tptres2.0\linkedlist.h
+
+1560290637 c:\users\sangl\desktop\tptres2.0\employee.h
+	"LinkedList.h"
+
+1560293195 source:c:\users\sangl\desktop\tptres2.0\employee.c
+	"Employee.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"LinkedList.h"
+	"validaciones.h"
+
+1560290637 c:\users\sangl\desktop\tptres2.0\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1560294038 source:c:\users\sangl\desktop\tptres2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1560290637 c:\users\sangl\desktop\tptres2.0\controller.h
+
+1560310681 source:c:\users\sangl\desktop\tptres2.0\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560290637 source:c:\users\sangl\desktop\tptres2.0\validaciones.c
+	"validaciones.h"
+
+1560362698 source:c:\users\e5a8013\desktop\espacio de estudio\programacion i 2018\trabajo-master (1)\trabajo-master\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560340900 c:\users\e5a8013\desktop\espacio de estudio\programacion i 2018\trabajo-master (1)\trabajo-master\linkedlist.h
+
+1560362695 c:\users\e5a8013\desktop\espacio de estudio\programacion i 2018\trabajo-master (1)\trabajo-master\employee.h
+	"LinkedList.h"
+
+1560363146 source:c:\users\e5a8013\desktop\espacio de estudio\programacion i 2018\trabajo-master (1)\trabajo-master\employee.c
+	"Employee.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"LinkedList.h"
+	"validaciones.h"
+
+1560340901 c:\users\e5a8013\desktop\espacio de estudio\programacion i 2018\trabajo-master (1)\trabajo-master\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1560340901 source:c:\users\e5a8013\desktop\espacio de estudio\programacion i 2018\trabajo-master (1)\trabajo-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1560362706 c:\users\e5a8013\desktop\espacio de estudio\programacion i 2018\trabajo-master (1)\trabajo-master\controller.h
+
+1560340901 source:c:\users\e5a8013\desktop\espacio de estudio\programacion i 2018\trabajo-master (1)\trabajo-master\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560340901 source:c:\users\e5a8013\desktop\espacio de estudio\programacion i 2018\trabajo-master (1)\trabajo-master\validaciones.c
+	"validaciones.h"
+
+1560395636 source:c:\users\sangl\desktop\tp3.0para romper\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560391864 c:\users\sangl\desktop\tp3.0para romper\linkedlist.h
+
+1560391864 c:\users\sangl\desktop\tp3.0para romper\employee.h
+	"LinkedList.h"
+
+1560396497 source:c:\users\sangl\desktop\tp3.0para romper\employee.c
+	"Employee.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"LinkedList.h"
+	"validaciones.h"
+
+1560391864 c:\users\sangl\desktop\tp3.0para romper\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1560391864 source:c:\users\sangl\desktop\tp3.0para romper\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1560391864 c:\users\sangl\desktop\tp3.0para romper\controller.h
+
+1560397357 source:c:\users\sangl\desktop\tp3.0para romper\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560391864 source:c:\users\sangl\desktop\tp3.0para romper\validaciones.c
+	"validaciones.h"
+
+1560395636 source:c:\users\sangl\desktop\actualizaciontp\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560391864 c:\users\sangl\desktop\actualizaciontp\linkedlist.h
+
+1560391864 c:\users\sangl\desktop\actualizaciontp\employee.h
+	"LinkedList.h"
+
+1560474182 source:c:\users\sangl\desktop\actualizaciontp\employee.c
+	"Employee.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"LinkedList.h"
+	"validaciones.h"
+
+1560391864 c:\users\sangl\desktop\actualizaciontp\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1560391864 source:c:\users\sangl\desktop\actualizaciontp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1560391864 c:\users\sangl\desktop\actualizaciontp\controller.h
+
+1560398030 source:c:\users\sangl\desktop\actualizaciontp\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560391864 source:c:\users\sangl\desktop\actualizaciontp\validaciones.c
+	"validaciones.h"
+
+1561333531 source:c:\users\sangl\desktop\practica para parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1560391864 c:\users\sangl\desktop\practica para parcial\linkedlist.h
+
+1561332598 c:\users\sangl\desktop\practica para parcial\controller.h
+
+1561333247 c:\users\sangl\desktop\practica para parcial\employee.h
+	"LinkedList.h"
+
+1561341136 source:c:\users\sangl\desktop\practica para parcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560391864 source:c:\users\sangl\desktop\practica para parcial\validaciones.c
+	"validaciones.h"
+
+1560391864 c:\users\sangl\desktop\practica para parcial\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1561332580 source:c:\users\sangl\desktop\practica para parcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"LinkedDos.h"
+
+1561346598 c:\users\sangl\desktop\practica para parcial\linkeddos.h
+	"Employee.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"LinkedList.h"
+	"validaciones.h"
+
+1561348287 source:c:\users\sangl\desktop\practica para parcial\employee.c
+	"Employee.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"LinkedList.h"
+	"validaciones.h"
+	"LinkedDos.h"
+
+1561346705 source:c:\users\sangl\desktop\practica para parcial\linkeddos.c
+	"Employee.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"LinkedList.h"
+	"validaciones.h"
+	"LinkedDos.h"
+

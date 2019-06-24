@@ -1,0 +1,9 @@
+ver como funcionan los  los gettes
+
+crear lista de archivos en caso de que los que esten no funcionen
+
+preguntar si los ids son automaticos y ver como implemento la funcion
+
+al momento de trabajas con los archivos hacer una copia por si llego a romper todo
+
+ver como interactua la carga de archivos con los datos ingresados por el usuario

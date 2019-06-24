@@ -1,0 +1,26 @@
+Ambos archivos tienen header
+hago un load de texto con un fscanf y no nunca leo uno para el header, hago todo junto
+la prueba de que guarda el empleado en cero esta bien.
+voy a ver que tiene en cero
+El load toma la basura y la guarda en la posicion 0 ya que al mostrar lo que hay dentro me no me trae nada
+cuando busco que hay en el indice 1 me trae al primer empleado: lou
+
+hago la lectura previa para no cargar el header, luego modifico el for del listar y me muestra todo correctamente
+
+hay un error en la modificacion cuando ingreso el numero de id = 1;
+
+cambio el for del editar employee ( i = 0;) y ahora me encuentra
+hago la modificacion, muestro y me modifico todo los elementos del arraylist. Solo me ocurre con el primer elemento del array
+cambie el  orden del if( employee =!NULL && id == id)
+muestro el indice en donde encontro lou y me devuelve 0
+muestro el empleado en el siguiente indice o sea el 1 y me devuelve el empleado siguiente correctamente
+
+hice el pasaje de datos a manos y me lo corrigio bien
+ahora pruebo todo y si funciona ok paso a los binarios. funciona todo ok
+
+guardo lo del texto en binario sin header
+muestro y me trae el primero duplicado
+al momento de cargar los empleados arraca desde el indice cero hasta 999 como debe ser
+voy a ver que es lo que carga en los primeros 2 indices
+bien en el cero esta lou y en el 1 esta ulrik
+
