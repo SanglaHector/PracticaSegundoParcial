@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1561420081 source:c:\users\alumno\desktop\segundoparcial\dominio.c
+	<stdio.h>
+	<stdlib.h>
+	"Validaciones.h"
+	"Dominio.h"
+	"LinkedList.h"
+
+1561412125 c:\users\alumno\desktop\segundoparcial\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1561420148 c:\users\alumno\desktop\segundoparcial\dominio.h
+	"LinkedList.h"
+
+1561412125 c:\users\alumno\desktop\segundoparcial\linkedlist.h
+
+1561418082 source:c:\users\alumno\desktop\segundoparcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1561420079 source:c:\users\alumno\desktop\segundoparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"parser.h"
+	"Dominio.h"
+
+1561413409 c:\users\alumno\desktop\segundoparcial\parser.h
+
+1561417338 source:c:\users\alumno\desktop\segundoparcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Dominio.h"
+
+1561412125 source:c:\users\alumno\desktop\segundoparcial\validaciones.c
+	"validaciones.h"
+
